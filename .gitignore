@@ -1,0 +1,22 @@
+# Magento
+magento2/generated/*
+magento2/pub/static/*
+magento2/var/*
+magento2/vendor/*
+magento2/.env
+magento2/auth.json
+magento2/app/etc/env.php
+magento2/app/etc/config.php
+
+# React Frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env.local
+frontend/.env.development
+frontend/.DS_Store
+
+# General
+.DS_Store
+.idea/
+.vscode/
